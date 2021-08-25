@@ -3,9 +3,9 @@
 ## Objectives
 - [X] asynchronous control flow review
 - [X] what is networking? (quick overview)
-- [] TCP introduction
-- [] Chat server
-- [] HTTP overview
+- [X] TCP introduction
+- [X] Chat server
+- [X] HTTP overview
 
 ### OSI (Open Systems Interconnection) Layers in Networking
 
