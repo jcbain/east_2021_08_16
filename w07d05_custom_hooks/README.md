@@ -1,13 +1,13 @@
 # W07D05 - Custom Hooks
 
 ## Objectives
-- [ ] Create custom hooks
-- [ ] useDocumentTitle
-- [ ] useMouseMove (tests)
-- [ ] useInput (tests)
-- [ ] useLocation
-- [ ] useApi
-- [ ] useKeyDown
+- [X] Create custom hooks
+- [X] useDocumentTitle
+- [X] useMouseMove (tests)
+- [X] useInput (tests)
+- [X] useLocation
+- [X] useApi
+- [X] useKeyDown
 
 ### Custom Hooks
 - From the [React Docs](https://reactjs.org/docs/hooks-custom.html):

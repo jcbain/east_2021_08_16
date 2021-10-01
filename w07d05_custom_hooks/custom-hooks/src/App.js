@@ -11,6 +11,9 @@ function App() {
 
   // console.log(data)
 
+
+
+
   return (
     <div className="App">
       <h1>Custom Hooks!</h1>
@@ -20,13 +23,13 @@ function App() {
       {/* <Location /> */}
       {/* {!loading && <p>{data.activity}</p>}
       {loading && <p>loading...</p>} */}
-      <div style={{display: "flex"}}>
+      {/* <div style={{display: "flex"}}>
         <Sprite animal={'dog_2'}/>
         <Sprite animal={'dog_1'}/>
         <Sprite animal={'cat_2'}/>
         <Sprite animal={'cat_1'}/>
 
-      </div>
+      </div> */}
     </div>
   );
 }
